@@ -34,6 +34,7 @@ header {
     /* align-items: center; */
     justify-content: center;
     font-family: cursive;
+    
 }
 .container-nav .second {
     display: flex;
@@ -48,6 +49,8 @@ header {
     font-weight: bold;
     text-align: center;
     margin-top: 5px;
+    letter-spacing: .6px;
+    font-size: 17px;
 }
 select option  {
     background-color: rgb(37, 37, 40);
