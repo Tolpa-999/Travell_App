@@ -49,8 +49,8 @@ header {
     font-weight: bold;
     text-align: center;
     margin-top: 5px;
-    letter-spacing: .6px;
-    font-size: 17px;
+    letter-spacing: 1px;
+    font-size: 18px;
 }
 select option  {
     background-color: rgb(37, 37, 40);
